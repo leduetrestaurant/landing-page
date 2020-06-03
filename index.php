@@ -9,13 +9,13 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                 <img class="font font1" src="img/tt1.svg">
                 <div class="conb">
                     <div>
+                        <img class="bg-photo" src="img/ho3.png">
+                    </div>
+                    <div>
                         <img class="bg-photo" src="img/ho1.png">
                     </div>
                     <div>
                         <img class="bg-photo" src="img/ho2.png">
-                    </div>
-                    <div>
-                        <img class="bg-photo" src="img/ho3.png">
                     </div>
                 </div>
                 <img class="font" src="img/tt2.svg">
