@@ -27,7 +27,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
         <div class="con">
             <h2 class="fade-in-top2">CONCEPT<span>品牌概念</span></h2>
             <p class="blue fade-in-top3">Le Duet，法文意指雙重奏：主廚具備割烹懷石的背景，揉和法餐美學的料理手法，譜寫成一段餐桌上的質感體驗。以「時間的料理」為主題，Le Duet 將食材巧妙組合、堆疊出口感上的豐富層次感，引領出繼酸甜苦鹹外的第五種味覺「鮮味」。從文化建構觀點、以理性交織感性，品牌將物質性的食物轉化為抽象的情感連結，共感出專屬於 Le Duet 的味蕾記憶。</p>
-            <p class="english blue fade-in-top4">A duet is a musical composition for two performers in which the performers have equal importance to the piece, often a composition involving two singers or two pianists.A duet is a musical composition for two performers in which the performers have equal importance to the piece, often a composition involving two singers or two pianists.</p>
+            <p class="english blue fade-in-top4">“Le Duet” comes from French, meaning “the duo play”. Here, our chef composes a high-quality experience with his background of Japanese kaiseki skills and the aesthetics of French cuisine on the table. With the theme of "TIME", Le Duet delicately combines the ingredients to enrich the sense of layering. Our dishes introduce a fifth sensation of "umami" in addition to the sweet, sour, salty and bitter. We transform the materials into abstract emotional connections, creating the unique taste buds of Le Duet.</p>
         </div>
         <div class="con ins sec1">
             <h2>INSPIRATION<span>料理啟發</span></h2>
@@ -53,11 +53,11 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
             <div class="swiper-pagination swiper-pagination1"></div>
             <div class="fordesktop">
                 <p class="whitee">料理保留其不完美的真實狀態，並專注於整體風味的平衡展現。視覺表現屏除不必要的裝飾，以渲染、潑灑、大地感的概念妝點擺盤，象徵各種滋味香韻的軌跡。設計則是呼應料理精神，以抽象帶有流動感的油墨線條，為品牌塑造優雅、低調的靜謐氛圍，增添味覺上的的無盡想像。</p>
-                <p class="english whitee">A duet is a musical composition for two performers in which the performers have equal importance to the piece, often a composition involving two singers or two pianists. It differs from a harmony, as the performers take turns performing a solo section rather than performing simultaneously.</p>
+                <p class="english whitee">The dishes are decorated with the concepts of rendering, splashing, and natural textures. Creating an imperfect status to maintain the original appearance of ingredients. Removing unnecessary visual decorations and focusing on the balanced display of overall taste. <br/> The abstract ink lines create a subtle elegance to the dish, in addition to the endless imagination in taste.</p>
             </div>
             <div class="formobile">
                 <p class="whitee">料理保留其不完美的真實狀態，並專注於整體風味的平衡展現。視覺表現屏除不必要的裝飾，以渲染、潑灑、大地感的概念妝點擺盤，象徵各種滋味香韻的軌跡。設計則是呼應料理精神，以抽象帶有流動感的油墨線條，為品牌塑造優雅、低調的靜謐氛圍，增添味覺上的的無盡想像。</p>
-                <p class="english whitee">A duet is a musical composition for two performers in which the performers have equal importance to the piece, often a composition involving two singers or two pianists. It differs from a harmony, as the performers take turns performing a solo section rather than performing simultaneously.</p>
+                <p class="english whitee">The dishes are decorated with the concepts of rendering, splashing, and natural textures. Creating an imperfect status to maintain the original appearance of ingredients. Removing unnecessary visual decorations and focusing on the balanced display of overall taste. <br/> The abstract ink lines create a subtle elegance to the dish, in addition to the endless imagination in taste.</p>
             </div>
         </div>
         <div class="con hey sec2">
