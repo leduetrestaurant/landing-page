@@ -297,7 +297,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     </div>
                 </div>
             </div>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.9796300437542!2d121.5507647503138!3d25.034765344336652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442abcea3c0be3d%3A0x2ac1e2bb24d4129c!2zMTA25Y-w5YyX5biC5aSn5a6J5Y2A5a6J5ZKM6Lev5LiA5q61MTI35be3NeiZnw!5e0!3m2!1szh-TW!2stw!4v1583509921282!5m2!1szh-TW!2stw" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.9796300414205!2d121.5507701145269!3d25.034765344415835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442ab2f08b3f2d1%3A0x34533b27457427fc!2zQ09RVUVMSUNPVCBQw6J0aXNzZXJpZSDnvYznsp_nlJzpu54!5e0!3m2!1szh-TW!2stw!4v1591207980283!5m2!1szh-TW!2stw" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
         </div>
         <p class="footer f2">Copyright © Le Duet</p> 
     </div>
