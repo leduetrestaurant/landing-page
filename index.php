@@ -189,7 +189,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                 <div class="book_btn">
                     <p class="read blue">我已閱讀並同意接受本服務<br>條款之所有內容</p>
                     <img class="arrow" src="img/arrowdown.svg">
-                    <a href="">BOOK A TABLE<span>訂位</span></a>
+                    <a href="https://inline.app/booking/-M-jyEOsvgDB0iGW7qDU:inline-live-1/-M-jyESrJa_k1ADTR1g9">BOOK A TABLE<span>訂位</span></a>
                 </div>
             </div>
         </div>
@@ -252,7 +252,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
             </div>
             <iframe class="fade-in-top4" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.7403164065604!2d121.56124761500642!3d25.042885383968134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442ab4594a73f2f%3A0x4c3400458cc197fd!2sLe%20Duet%20kitchen%20%26%20Bar!5e0!3m2!1szh-TW!2stw!4v1590636525076!5m2!1szh-TW!2stw" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
         </div>
-        <div class="con blue fade-in-top5">
+        <div class="con blue fade-in-top5" hidden="true">
             <div class="conbox">
                 <h4 class="partner">Partner store</h4>
                 <div class="title">
