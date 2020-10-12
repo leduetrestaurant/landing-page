@@ -211,7 +211,6 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     <div class="vol">
                         <div class="boxx">
                             <b>營業時間</b>
-                            <p>週二到週日</p>
                             <p>18.00 — 00.30</p>
                         </div>
                         <div class="boxx">
@@ -232,7 +231,6 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     <div class="vol">
                         <div class="boxx">
                             <b>Opening Times</b>
-                            <p>Tues — Sun</p>
                             <p>18.00 — 00.30</p>
                         </div>
                         <div class="boxx">
@@ -251,53 +249,6 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                 </div>
             </div>
             <iframe class="fade-in-top4" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.7403164065604!2d121.56124761500642!3d25.042885383968134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442ab4594a73f2f%3A0x4c3400458cc197fd!2sLe%20Duet%20kitchen%20%26%20Bar!5e0!3m2!1szh-TW!2stw!4v1590636525076!5m2!1szh-TW!2stw" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-        </div>
-        <div class="con blue fade-in-top5" hidden="true">
-            <div class="conbox">
-                <h4 class="partner">Partner store</h4>
-                <div class="title">
-                    <h3>Coquelicot Pâtisserie<span>罌粟甜點</span></h3>
-                    <div class="social">
-                        <a href="https://www.facebook.com/coquelicot2018/" target="_blank"><img src="img/icon-fb.svg"></a>
-                        <a href="https://www.instagram.com/coquelicot_tuan/" target="_blank"><img src="img/icon-ig.svg"></a>
-                    </div>
-                </div>
-                <div class="vol-group">
-                    <div class="vol">
-                        <div class="boxx">
-                            <b>營業時間</b>
-                            <p>週三到週日</p>
-                            <p>13.00 - 19.30</p>
-                            <p>週一二公休</p>
-                        </div>
-                        <div class="boxx">
-                            <b>地址</b>
-                            <p>106 台北市大安區<br>安和路一段127巷5號一樓<br>（信義安和站1號出口，步行約3分鐘）</p>
-                        </div>
-                        <div class="boxx">
-                            <b>電話</b>
-                            <a href="tel:+886-2-3278918">02 2709 3353</a>
-                        </div>
-                    </div>
-                    <div class="vol">
-                        <div class="boxx">
-                            <b>Opening Times</b>
-                            <p>Weds — Sun</p>
-                            <p>13.00 - 19.30</p>
-                            <p>Mon & Tues closed</p>
-                        </div>
-                        <div class="boxx">
-                            <b>Address</b>
-                            <p class="foraddress">No 5, Aly 127, Sect 1,<br>Anhe Rd, Daan Dist,<br>Taipei 106</p>
-                        </div>
-                        <div class="boxx">
-                            <b>Tel</b>
-                            <a href="tel:+886-2-3278918">02 2709 3353</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.9796300414205!2d121.5507701145269!3d25.034765344415835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442ab2f08b3f2d1%3A0x34533b27457427fc!2zQ09RVUVMSUNPVCBQw6J0aXNzZXJpZSDnvYznsp_nlJzpu54!5e0!3m2!1szh-TW!2stw!4v1591207980283!5m2!1szh-TW!2stw" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
         </div>
         <p class="footer f2">Copyright © Le Duet</p> 
     </div>
