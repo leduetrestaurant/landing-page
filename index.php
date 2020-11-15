@@ -89,14 +89,16 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
         <div class="con">
             <h2 class="fade-in-top2">MENU<span>菜單</span></h2>
             <div class="boxo">
-                <p class="comingsoon fade-in-top3">Coming Soon.</p>
+                <a class="fade-in-top3" href="">À La Carte 單點</a>
+                <a class="fade-in-top4" href="">Set Menu 套餐</a>
+                <a class="fade-in-top5" href="">Wine List 酒單</a>
             </div>
         </div>
         <p class="footer f3">Copyright © Le Duet</p>
     </div>
     <div class="content reservation" id="reservate">
         <div class="con">
-            <h2 class="fade-in-top2">RESERVATIONS<span>訂位</span></h2>
+            <h2 class="fade-in-top2">RESERVATION<span>訂位</span></h2>
             <div class="bookbox fade-in-top3">
                 <p class="blue">Le Duet 接受兩個月內的線上訂位</p>
                 <p class="blue">可透過官網的訂位系統或臉書專頁的藍色按鍵</p>
@@ -109,8 +111,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     <h4>一般訂位<span>General bookings</span></h4>
                     <div class="box">
                         <b>基本低消</b>
-                        <p>每人基本低消 NT$800</p>
-                        <p>晚間九點過後低消為每人 NT$500。</p>
+                        <p>每人基本低消 NT$800。</p>
                     </div>
                     <div class="box">
                         <b>用餐時間</b>
@@ -128,7 +129,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     </div>
                 </div>
                 <div class="bookdetail">
-                    <h4>私人包場＆特別活動<span>Private Hire & Events</span></h4>
+                    <h4>私人包場＆特別活動<span>Private Events</span></h4>
                     <div class="box">
                         <b>私人包場/ 特別活動時段</b>
                         <p>中場 11:30 — 15:30</p>
@@ -145,7 +146,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     </div>
                     <div class="box">
                         <b>改期或取消</b>
-                        <p>如需改期或取消訂位，請於用餐日一週前致電告知，以便協助相關退款動作。<br> 不接受臨時更動及取消訂位，且訂金不退還。</p>
+                        <p>如需改期或取消訂位，請於用餐日兩週前致電告知，以便協助相關退款動作。<br> 不接受臨時更動及取消訂位，且訂金不退還。</p>
                     </div>
                     <div class="box">
                         <b>額外租金</b>
@@ -155,13 +156,13 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                 <div class="bookdetail">
                     <h4>慶祝特別節日<span>Celebrations & Festivals</span></h4>
                     <div class="box">
-                        <p>如有事先告知需慶生、紀念日或其他慶祝活動， Le Duet 將招待一份盤飾甜點並上蠟燭及祝賀文字。另可訂購4、6、8吋生日蛋糕，歡迎來電洽詢。</p>
+                        <p>如有事先告知慶生、紀念日或其它慶祝活動， Le Duet 將招待一份盤飾甜點並上蠟燭及祝賀文字。</p>
                     </div>
                 </div>
                 <div class="bookdetail las">
-                    <h4>其他或注意事項<span>Other Notices</span></h4>
+                    <h4>其它或注意事項<span>Other Notices</span></h4>
                     <div class="box">
-                        <p>洗杯費NT$100/杯 (故不另酌收開瓶費) 。</p>
+                        <p>洗杯費NT$150/杯 (故不另酌收開瓶費) 。</p>
                     </div>
                     <div class="box">
                         <p>所有價格以新台幣表示，並需加收一成服務費<br>（洗杯費及租金除外）。</p>
@@ -230,7 +231,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     </div>
                     <div class="vol">
                         <div class="boxx">
-                            <b>Opening Times</b>
+                            <b>Operation Hours</b>
                             <p>18.00 — 00.30</p>
                         </div>
                         <div class="boxx">

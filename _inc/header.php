@@ -70,8 +70,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <header>
     <div class="menu">
         <a class="ani" data-id="about">ABOUT US<span>關於</span></a>
-        <a class="ani" data-id="menu">MENUS<span>菜單</span></a>
-        <a class="ani" data-id="reservate">RESERVATIONS<span>訂位</span></a>
+        <a class="ani" data-id="menu">MENU<span>菜單</span></a>
+        <a class="ani" data-id="reservate">RESERVATION<span>訂位</span></a>
         <a class="ani" data-id="contact">CONTACT<span>聯絡</span></a>
         <div class="con">
             <div class="vol mobile" onclick="document.location='https://goo.gl/maps/mFh3YebPceACd1v8A'">
