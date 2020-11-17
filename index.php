@@ -90,9 +90,9 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
     <div class="content menus" id="menu">
         <div class="con">
             <h2 class="fade-in-top2">MENU<span>菜單</span></h2>
-            <div class="boxo" style="font-family: Verdana,sans-serif;">
-                <a class="fade-in-top3" href="https://leduet-menu.s3.ap-northeast-2.amazonaws.com/%E7%A7%8B%E5%AD%A3A%CC%81+La+Carte%E8%8F%9C%E5%96%AE.pdf" target=_blank>Á La Carte 單點</a>
-                <a class="fade-in-top4" href="https://leduet-menu.s3.ap-northeast-2.amazonaws.com/%E7%A7%8B%E5%AD%A3+Beverage%E9%85%92%E5%96%AE.pdf" target=_blank>Beverage 酒單</a>
+            <div class="boxo">
+                <a class="fade-in-top3" href="https://leduet-menu.s3.ap-northeast-2.amazonaws.com/%E7%A7%8B%E5%AD%A3A%CC%81+La+Carte%E8%8F%9C%E5%96%AE.pdf" target=_blank style="font-family: Verdana,sans-serif;">Á La Carte 單點</a>
+                <a class="fade-in-top4" href="https://leduet-menu.s3.ap-northeast-2.amazonaws.com/%E7%A7%8B%E5%AD%A3+Beverage%E9%85%92%E5%96%AE.pdf" target=_blank style="font-family: Verdana,sans-serif;">Beverage 酒單</a>
             </div>
         </div>
         <p class="footer f3">Copyright © Le Duet</p>
