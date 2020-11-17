@@ -33,6 +33,7 @@
 
     <link rel="stylesheet" href="css/swiper.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="css/ls.css">
+    <link rel="icon" href="img/fav.png" type="image/png">
     <link rel="shortcut icon" href="img/fav.png"/>
     <link rel="bookmark" href="img/fav.png"/>
     <link href="https://fonts.googleapis.com/css?family=Cormorant:400,500,600,600i,700|Noto+Sans+TC:100,300,400,500,700,900&display=swap&subset=chinese-traditional" rel="stylesheet">
