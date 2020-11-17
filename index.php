@@ -61,7 +61,8 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
             </div>
         </div>
         <div class="con hey sec2">
-            <h2>INTERIROR<span>餐廳空間</span></h2>
+            <!--
+            <h2>INTERIOR<span>餐廳空間</span></h2>
             <div class="swiper-container2 inspirearea">
                 <div class="area swiper-wrapper">
                     <div class="timebox swiper-slide">
@@ -81,6 +82,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     </div>
                 </div>
             </div>
+            -->
             <div class="swiper-pagination swiper-pagination2"></div>
         </div>
         <p class="footer f2">Copyright © Le Duet</p>
@@ -89,9 +91,8 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
         <div class="con">
             <h2 class="fade-in-top2">MENU<span>菜單</span></h2>
             <div class="boxo">
-                <a class="fade-in-top3" href="">À La Carte 單點</a>
-                <a class="fade-in-top4" href="">Set Menu 套餐</a>
-                <a class="fade-in-top5" href="">Wine List 酒單</a>
+                <a class="fade-in-top3" href="https://leduet-menu.s3.ap-northeast-2.amazonaws.com/%E7%A7%8B%E5%AD%A3A%CC%81+La+Carte%E8%8F%9C%E5%96%AE.pdf" target=_blank>Á La Carte 單點</a>
+                <a class="fade-in-top4" href="https://leduet-menu.s3.ap-northeast-2.amazonaws.com/%E7%A7%8B%E5%AD%A3+Beverage%E9%85%92%E5%96%AE.pdf" target=_blank>Beverage 酒單</a>
             </div>
         </div>
         <p class="footer f3">Copyright © Le Duet</p>
@@ -231,7 +232,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     </div>
                     <div class="vol">
                         <div class="boxx">
-                            <b>Operation Hours</b>
+                            <b>Opening Hours</b>
                             <p>18.00 — 00.30</p>
                         </div>
                         <div class="boxx">
