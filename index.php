@@ -61,6 +61,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
             </div>
         </div>
         <div class="con hey sec2">
+            <!--
             <h2>INTERIOR<span>餐廳空間</span></h2>
             <div class="swiper-container2 inspirearea">
                 <div class="area swiper-wrapper">
@@ -76,6 +77,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                 </div>
             </div>
             <div class="swiper-pagination swiper-pagination2"></div>
+            -->
         </div>
         <p class="footer f2">Copyright © Le Duet</p>
     </div>
@@ -85,6 +87,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
             <div class="boxo">
                 <a class="fade-in-top3" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Autumn-A-La-Carte.pdf" target=_blank style="font-family: Verdana,sans-serif;">Á La Carte 單點</a>
                 <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Autumn-Beverage.pdf" target=_blank style="font-family: Verdana,sans-serif;">Beverage 酒單</a>
+                <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Christmas-Special.pdf" target=_blank style="font-family: Verdana,sans-serif;">Christmas Special 耶誕套餐</a>
             </div>
         </div>
         <p class="footer f3">Copyright © Le Duet</p>
