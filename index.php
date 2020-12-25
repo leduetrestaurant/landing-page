@@ -186,7 +186,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                 <div class="book_btn">
                     <p class="read blue">我已閱讀並同意接受本服務<br>條款之所有內容</p>
                     <img class="arrow" src="img/arrowdown.svg">
-                    <a href="https://inline.app/booking/-M-jyEOsvgDB0iGW7qDU:inline-live-1/-M-jyESrJa_k1ADTR1g9">BOOK A TABLE<span>訂位</span></a>
+                    <a href="https://inline.app/booking/-M-jyEOsvgDB0iGW7qDU:inline-live-1/-M-jyESrJa_k1ADTR1g9" id="book_table_btn">BOOK A TABLE<span>訂位</span></a>
                 </div>
             </div>
         </div>
