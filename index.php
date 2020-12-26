@@ -87,7 +87,6 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
             <div class="boxo">
                 <a class="fade-in-top3" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Autumn-A-La-Carte.pdf" target=_blank style="font-family: Verdana,sans-serif;">Á La Carte 單點</a>
                 <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Autumn-Beverage.pdf" target=_blank style="font-family: Verdana,sans-serif;">Beverage 酒單</a>
-                <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Christmas-Special.pdf" target=_blank style="font-family: Verdana,sans-serif;">Christmas Special 耶誕套餐</a>
             </div>
         </div>
         <p class="footer f3">Copyright © Le Duet</p>
@@ -118,6 +117,35 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                         <b>訂位保留</b>
                         <p>訂位將為保留15分鐘，如逾時將視同取消訂位</p>
                         <p>將由現場候位賓客候補座位。</p>
+                    </div>
+                    <div class="box">
+                        <b>座位安排＆人數變更</b>
+                        <p>座位將依餐廳當日訂位排定，恕無法指定座位，亦不接受現場增加人數，若有任何人數變更，請於用餐前提前與餐廳聯繫。</p>
+                    </div>
+                </div>
+                <div class="bookdetail">
+                    <h4>預約制套餐<span>Tasting Menu</span></h4>
+                    <div class="box">
+                        <p>只接受電話預約，並告知有無過敏忌口食材</p>
+                        <p>最晚請於用餐日3天前來電預訂</p>
+                        <p>每人消費為「NT$2,800+10%服務費」，價格不包含任何酒水費用</p>
+                    </div>
+                    <div class="box">
+                        <b>用餐時間</b>
+                        <p>出餐時間約為2小時，若趕時間 請斟酌。</p>
+                    </div>
+                    <div class="box">
+                        <b>訂位保留</b>
+                        <p>訂位將為保留15分鐘，如逾時將視同取消訂位</p>
+                    </div>
+                    <div class="box">
+                        <b>預付訂金</b>
+                        <p>須於來電日當天23:59前完成預付訂金，如未完成預付訂金，視同取消訂位。</p>
+                    </div>
+                    <div class="box">
+                        <b>改期或取消</b>
+                        <p>如需改期或取消訂位，請於用餐日3天前致電告知，以便協助相關退款動作。</p>
+                        <p>不接受臨時更動及取消訂位，且訂金恕不退還。</p>
                     </div>
                     <div class="box">
                         <b>座位安排＆人數變更</b>
