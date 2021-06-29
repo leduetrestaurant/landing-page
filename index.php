@@ -87,6 +87,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
             <div class="boxo">
                 <a class="fade-in-top3" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Autumn-A-La-Carte.pdf" target=_blank style="font-family: Verdana,sans-serif;">Á La Carte 單點</a>
                 <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Autumn-Beverage.pdf" target=_blank style="font-family: Verdana,sans-serif;">Beverage 酒單</a>
+                <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Tasting-Menu.pdf" target=_blank style="font-family: Verdana,sans-serif;">Tasting Menu 預約制套餐</a>
             </div>
         </div>
         <p class="footer f3">Copyright © Le Duet</p>
@@ -95,7 +96,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
         <div class="con">
             <h2 class="fade-in-top2">RESERVATION<span>訂位</span></h2>
             <div class="bookbox fade-in-top3">
-                <p class="blue">Le Duet 接受兩個月內的線上訂位</p>
+                <p class="blue">Le Duet 接受三十天內的線上訂位</p>
                 <p class="blue">可透過官網的訂位系統或臉書專頁的藍色按鍵</p>
                 <p class="blue">BOOK NOW 搶先預約</p><br>
                 <p class="blue">當日預約，請撥打訂位專線<a class="blue" href="tel:+886-2-37621570">02 3762 1570</a></p>
@@ -106,7 +107,8 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     <h4>一般訂位<span>General bookings</span></h4>
                     <div class="box">
                         <b>基本消費</b>
-                        <p>每位低消 NT$800。</p>
+                        <p>每位低消 NT$800</p>
+                        <p>晚間九點過後無低消限制。</p>
                     </div>
                     <div class="box">
                         <b>用餐時間</b>
@@ -195,7 +197,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                         <p>為考量與顧客相關之食品安全及呈現餐點最完美的狀態，Le Duet 不提供外帶服務，亦無任何外帶的容器。請勿攜帶外食及飲料，生日蛋糕例外。</p>
                     </div>
                     <div class="box">
-                        <p>恕不接待12歲以下兒童。</p>
+                        <p>恕不接待8歲以下兒童。</p>
                         <p>恕不接待寵物入內。</p>
                         <p>無提供素食餐點。</p>
                     </div>

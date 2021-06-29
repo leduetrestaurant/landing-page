@@ -30,6 +30,7 @@
     <meta name="country" content="TW" />
     <meta name="title" content="Leduet" />
     <meta name="format-detection" content="telephone=no">
+    <meta name="facebook-domain-verification" content="1hl37zy6kqpmk169dvrw3y0qh8ztl9" />
 
     <title id=“docTitle”>Leduet</title>
 
