@@ -83,11 +83,11 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
     </div>
     <div class="content menus" id="menu">
         <div class="con">
-            <h2 class="fade-in-top2">MENU<span>菜單</span></h2>
+            <h2 class="fade-in-top2">RESERVATION<span>訂購</span></h2>
             <div class="boxo">
-                <a class="fade-in-top3" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Autumn-A-La-Carte.pdf" target=_blank style="font-family: Verdana,sans-serif;">Á La Carte 單點</a>
-                <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Autumn-Beverage.pdf" target=_blank style="font-family: Verdana,sans-serif;">Beverage 酒單</a>
-                <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Tasting-Menu.pdf" target=_blank style="font-family: Verdana,sans-serif;">Tasting Menu 預約制套餐</a>
+                <a class="fade-in-top3" href="https://inline.app/booking/-M-jyEOsvgDB0iGW7qDU:inline-live-1/-M-jyESrJa_k1ADTR1g9" target=_blank style="font-family: Verdana,sans-serif;">Dining at Home<br>情境式雙人套餐</a>
+                <a class="fade-in-top4" href="https://shop.ichefpos.com/store/AgozQi8K/ordering" target=_blank style="font-family: Verdana,sans-serif;">Chirashi Sushi<br>雙重奏散壽司</a>
+                <!-- <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Tasting-Menu.pdf" target=_blank style="font-family: Verdana,sans-serif;">Tasting Menu 預約制套餐</a> -->
             </div>
         </div>
         <p class="footer f3">Copyright © Le Duet</p>
@@ -238,7 +238,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     <div class="vol">
                         <div class="boxx">
                             <b>營業時間</b>
-                            <p>18.00 — 00.30</p>
+                            <p>15.30 — 20.30</p>
                         </div>
                         <div class="boxx">
                             <b>地址</b>
