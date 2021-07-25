@@ -85,8 +85,8 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
         <div class="con">
             <h2 class="fade-in-top2">RESERVATION<span>訂購</span></h2>
             <div class="boxo">
-                <a class="fade-in-top3" href="https://inline.app/booking/-M-jyEOsvgDB0iGW7qDU:inline-live-1/-M-jyESrJa_k1ADTR1g9" target=_blank style="font-family: Verdana,sans-serif;">Dining at Home<br>情境式雙人套餐</a>
-                <a class="fade-in-top4" href="https://shop.ichefpos.com/store/AgozQi8K/ordering" target=_blank style="font-family: Verdana,sans-serif;">Chirashi Sushi<br>雙重奏散壽司</a>
+                <a class="fade-in-top3" href="https://inline.app/booking/-M-jyEOsvgDB0iGW7qDU:inline-live-1/-M-jyESrJa_k1ADTR1g9"  onclick="fbq('track', 'dining_at_home')" target=_blank style="font-family: Verdana,sans-serif;">Dining at Home<br>情境式雙人套餐</a>
+                <a class="fade-in-top4" href="https://shop.ichefpos.com/store/AgozQi8K/ordering" onclick="fbq('track', 'chirashi_sushi')" target=_blank style="font-family: Verdana,sans-serif;">Chirashi Sushi<br>雙重奏散壽司</a>
                 <!-- <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Tasting-Menu.pdf" target=_blank style="font-family: Verdana,sans-serif;">Tasting Menu 預約制套餐</a> -->
             </div>
         </div>
