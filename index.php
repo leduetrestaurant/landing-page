@@ -85,7 +85,6 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
         <div class="con">
             <h2 class="fade-in-top2">RESERVATION<span>訂購</span></h2>
             <div class="boxo">
-                <a class="fade-in-top3" href="https://inline.app/booking/-M-jyEOsvgDB0iGW7qDU:inline-live-1/-M-jyESrJa_k1ADTR1g9"  onclick="fbq('track', 'dining_at_home')" target=_blank style="font-family: Verdana,sans-serif;">Dining at Home<br>情境式雙人套餐</a>
                 <a class="fade-in-top4" href="https://shop.ichefpos.com/store/AgozQi8K/ordering" onclick="fbq('track', 'chirashi_sushi')" target=_blank style="font-family: Verdana,sans-serif;">Chirashi Sushi<br>雙重奏散壽司</a>
                 <!-- <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Tasting-Menu.pdf" target=_blank style="font-family: Verdana,sans-serif;">Tasting Menu 預約制套餐</a> -->
             </div>
@@ -94,16 +93,16 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
     </div>
     <div class="content reservation" id="reservate">
         <div class="con">
-            <h2 class="fade-in-top2">RESERVATION<span>訂位</span></h2>
+            <h2 class="fade-in-top2">BOOKING FOR A TABLE<span>訂位</span></h2>
             <div class="bookbox fade-in-top3">
-                <p class="blue">Le Duet 接受三十天內的線上訂位</p>
+                <p class="blue">Le Duet 接受30天內的線上訂位</p>
                 <p class="blue">可透過官網的訂位系統或臉書專頁的藍色按鍵</p>
                 <p class="blue">BOOK NOW 搶先預約</p><br>
-                <p class="blue">當日預約，請撥打訂位專線<a class="blue" href="tel:+886-2-37621570">02 3762 1570</a></p>
+                <p class="blue">當日或隔日預約，請撥打訂位專線<a class="blue" href="tel:+886-2-37621570">02 3762 1570</a></p>
                 <p class="blue">我們將為您確認現場訂位狀況</p>
             </div>
             <div class="fade-in-top4">
-                <div class="bookdetail fir">
+                <div class="bookdetail fir" style="display:none">
                     <h4>一般訂位<span>General bookings</span></h4>
                     <div class="box">
                         <b>基本消費</b>
@@ -128,9 +127,8 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                 <div class="bookdetail">
                     <h4>預約制套餐<span>Tasting Menu</span></h4>
                     <div class="box">
-                        <p>只接受電話預約，並告知有無過敏忌口食材</p>
-                        <p>最晚請於用餐日3天前來電預訂</p>
-                        <p>每人消費為「NT$2,800+10%服務費」，價格不包含任何酒水費用</p>
+                        <b>基本消費</b>
+                        <p>防疫期間僅提供「NT$2480+10%」之個人式套餐，套餐價格不包括任何酒水費用。</p>
                     </div>
                     <div class="box">
                         <b>用餐時間</b>
@@ -140,7 +138,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                         <b>訂位保留</b>
                         <p>訂位將為保留15分鐘，如逾時將視同取消訂位</p>
                     </div>
-                    <div class="box">
+                    <div class="box" style="display:none">
                         <b>預付訂金</b>
                         <p>須於來電日當天23:59前完成預付訂金，如未完成預付訂金，視同取消訂位。</p>
                     </div>
@@ -155,19 +153,17 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     </div>
                 </div>
                 <div class="bookdetail">
-                    <h4>私人包場＆特別活動<span>Private Events</span></h4>
+                    <h4>私人包場＆特別活動<span>Private Events</span><span></span>※二級警戒恕不開放</h4>
                     <div class="box">
                         <b>私人包場/ 特別活動時段</b>
                         <p>中場 11:30 — 15:30</p>
                         <p>晚場 17:00 — 21:00</p>
                         <p>凌晨 21:00 — 01:00</p>
-                    </div>
-                    <div class="box">
-                        <b>客製菜單</b>
-                        <p>私人活動包場可提供特別菜單的服務。</p>
+                        <p>※最大座位數為16位</p>
                     </div>
                     <div class="box">
                         <b>預付訂金</b>
+                        <p>基本消費為「NT35000+10%服務費」</p>
                         <p>完成預付訂金前，訂位保留2天，如2天內未完成預付訂金，視同取消訂位。</p>
                     </div>
                     <div class="box">
@@ -176,13 +172,14 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     </div>
                     <div class="box">
                         <b>額外租金</b>
-                        <p>若有超出私人包場或特別活動時間，我們將收取額外的租金，造成不便之處敬請見諒。</p>
+                        <p>若有超出私人包場或特別活動時間，我們將收取每半小時「NT$5000」的租金，造成不便之處敬請見諒。</p>
                     </div>
                 </div>
                 <div class="bookdetail">
                     <h4>慶祝特別節日<span>Celebrations & Festivals</span></h4>
                     <div class="box">
                         <p>如有事先告知慶生、紀念日或其它慶祝活動， Le Duet 將招待一份盤飾甜點並上蠟燭及祝賀文字。</p>
+                        <p>若自備「6吋以上蛋糕」請先與餐廳聯絡，以免無冷藏空間提供。需另加收每顆蛋糕NT$200清潔費。</p>
                     </div>
                 </div>
                 <div class="bookdetail las">
@@ -191,7 +188,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                         <p>洗杯費NT$150/杯 (故不另酌收開瓶費) 。</p>
                     </div>
                     <div class="box">
-                        <p>所有價格以新台幣表示，並需加收一成服務費<br>（洗杯費及租金除外）。</p>
+                        <p>所有價格以新台幣表示，並需加收一成服務費<br>（洗杯費及蛋糕清潔費、租金除外）。</p>
                     </div>
                     <div class="box">
                         <p>為考量與顧客相關之食品安全及呈現餐點最完美的狀態，Le Duet 不提供外帶服務，亦無任何外帶的容器。請勿攜帶外食及飲料，生日蛋糕例外。</p>
@@ -238,7 +235,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     <div class="vol">
                         <div class="boxx">
                             <b>營業時間</b>
-                            <p>15.30 — 20.30</p>
+                            <p>18.00 — 22.00</p>
                         </div>
                         <div class="boxx">
                             <b>地址</b>
@@ -258,7 +255,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     <div class="vol">
                         <div class="boxx">
                             <b>Opening Hours</b>
-                            <p>18.00 — 00.30</p>
+                            <p>18.00 — 22.00</p>
                         </div>
                         <div class="boxx">
                             <b>Address</b>
