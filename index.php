@@ -70,9 +70,6 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     <div class="timebox swiper-slide">
                        <img src="https://leduet-photos.s3.ap-northeast-1.amazonaws.com/photos/interior-2.jpg"> 
                     </div>
-                    <div class="timebox swiper-slide">
-                       <img src="https://leduet-photos.s3.ap-northeast-1.amazonaws.com/photos/interior-3.jpg"> 
-                    </div>
                 </div>
             </div>
             <div class="swiper-pagination swiper-pagination2"></div>
@@ -83,9 +80,9 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
         <div class="con">
             <h2 class="fade-in-top2">MENU<span>菜單</span></h2>
             <div class="boxo">
-                <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Tasting-Menu.pdf" target=_blank style="font-family: Verdana,sans-serif;">Tasting Menu 預約制套餐</a>
-                <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Beverages.pdf" target=_blank style="font-family: Verdana,sans-serif;">Beverage 酒單</a>
-                <a class="fade-in-top4" href="https://inline.app/order/-M-jyEOsvgDB0iGW7qDU:inline-live-1/-M-jyESrJa_k1ADTR1g9?language=zh-tw#meal-item-84531" target=_blank style="font-family: Verdana,sans-serif;">Delivery Service 外送</a>
+                <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Tasting-Menu.pdf" target=_blank style="font-family: Verdana,sans-serif;">TASTING MENU<br/>預約制套餐</a>
+                <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Beverages.pdf" target=_blank style="font-family: Verdana,sans-serif;">BEVERAGE <br/>酒單</a>
+                <a class="fade-in-top4" href="https://inline.app/order/-M-jyEOsvgDB0iGW7qDU:inline-live-1/-M-jyESrJa_k1ADTR1g9?language=zh-tw#meal-item-84531" target=_blank style="font-family: Verdana,sans-serif;">DELIVERY SERVICE<br/>外送</a>
             </div>
         </div>
         <p class="footer f3">Copyright © Le Duet</p>
