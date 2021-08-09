@@ -61,7 +61,6 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
             </div>
         </div>
         <div class="con hey sec2">
-            <!--
             <h2>INTERIOR<span>餐廳空間</span></h2>
             <div class="swiper-container2 inspirearea">
                 <div class="area swiper-wrapper">
@@ -77,23 +76,23 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                 </div>
             </div>
             <div class="swiper-pagination swiper-pagination2"></div>
-            -->
         </div>
         <p class="footer f2">Copyright © Le Duet</p>
     </div>
     <div class="content menus" id="menu">
         <div class="con">
-            <h2 class="fade-in-top2">RESERVATION<span>訂購</span></h2>
+            <h2 class="fade-in-top2">MENU<span>菜單</span></h2>
             <div class="boxo">
-                <a class="fade-in-top4" href="https://shop.ichefpos.com/store/AgozQi8K/ordering" onclick="fbq('track', 'chirashi_sushi')" target=_blank style="font-family: Verdana,sans-serif;">Chirashi Sushi<br>雙重奏散壽司</a>
-                <!-- <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Tasting-Menu.pdf" target=_blank style="font-family: Verdana,sans-serif;">Tasting Menu 預約制套餐</a> -->
+                <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Tasting-Menu.pdf" target=_blank style="font-family: Verdana,sans-serif;">Tasting Menu 預約制套餐</a>
+                <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Beverages.pdf" target=_blank style="font-family: Verdana,sans-serif;">Beverage 酒單</a>
+                <a class="fade-in-top4" href="https://inline.app/order/-M-jyEOsvgDB0iGW7qDU:inline-live-1/-M-jyESrJa_k1ADTR1g9?language=zh-tw#meal-item-84531" target=_blank style="font-family: Verdana,sans-serif;">Delivery Service 外送</a>
             </div>
         </div>
         <p class="footer f3">Copyright © Le Duet</p>
     </div>
     <div class="content reservation" id="reservate">
         <div class="con">
-            <h2 class="fade-in-top2">BOOKING FOR A TABLE<span>訂位</span></h2>
+            <h2 class="fade-in-top2">RESERVATIONS<span>訂位</span></h2>
             <div class="bookbox fade-in-top3">
                 <p class="blue">Le Duet 接受30天內的線上訂位</p>
                 <p class="blue">可透過官網的訂位系統或臉書專頁的藍色按鍵</p>
