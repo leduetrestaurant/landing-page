@@ -80,7 +80,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
         <div class="con">
             <h2 class="fade-in-top2">MENU<span>菜單</span></h2>
             <div class="boxo">
-                <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Tasting-Menu.pdf" target=_blank style="font-family: Verdana,sans-serif;">TASTING MENU<br/>預約制套餐</a>
+                <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Tasting-Menu.jpeg" target=_blank style="font-family: Verdana,sans-serif;">TASTING MENU<br/>預約制套餐</a>
                 <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Beverages.pdf" target=_blank style="font-family: Verdana,sans-serif;">BEVERAGE <br/>酒單</a>
                 <a class="fade-in-top4" href="https://inline.app/order/-M-jyEOsvgDB0iGW7qDU:inline-live-1/-M-jyESrJa_k1ADTR1g9?language=zh-tw#meal-item-84531" target=_blank style="font-family: Verdana,sans-serif;">DELIVERY SERVICE<br/>外送</a>
             </div>
@@ -124,11 +124,8 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     <h4>預約制套餐<span>Tasting Menu</span></h4>
                     <div class="box">
                         <b>基本消費</b>
-                        <p>防疫期間僅提供「NT$2480+10%」之個人式套餐，套餐價格不包括任何酒水費用。</p>
-                    </div>
-                    <div class="box">
-                        <b>用餐時間</b>
-                        <p>出餐時間約為2小時，若趕時間 請斟酌。</p>
+                        <p>提供NT$1,580 (6道菜)及NT$2,480 (7道菜)兩種套餐選擇，套餐價格不包含任何酒水及服務費用。</p>
+                        <p>如訂位人數臨時減少，則需額外單點酒水補足原先需達之總基本低消。</p>
                     </div>
                     <div class="box">
                         <b>訂位保留</b>
@@ -149,17 +146,15 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     </div>
                 </div>
                 <div class="bookdetail">
-                    <h4>私人包場＆特別活動<span>Private Events</span><span></span>※二級警戒恕不開放</h4>
+                    <h4>私人包場＆特別活動<span>Private Events</span></h4>
                     <div class="box">
                         <b>私人包場/ 特別活動時段</b>
-                        <p>中場 11:30 — 15:30</p>
-                        <p>晚場 17:00 — 21:00</p>
-                        <p>凌晨 21:00 — 01:00</p>
+                        <p>晚場 18:00 — 22:00</p>
                         <p>※最大座位數為16位</p>
                     </div>
                     <div class="box">
                         <b>預付訂金</b>
-                        <p>基本消費為「NT35000+10%服務費」</p>
+                        <p>基本消費為「NT30000+10%服務費」</p>
                         <p>完成預付訂金前，訂位保留2天，如2天內未完成預付訂金，視同取消訂位。</p>
                     </div>
                     <div class="box">
@@ -192,7 +187,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     <div class="box">
                         <p>恕不接待8歲以下兒童。</p>
                         <p>恕不接待寵物入內。</p>
-                        <p>無提供素食餐點。</p>
+                        <p>無提供素食與海鮮套餐。</p>
                     </div>
                     <div class="box">
                         <p>菜單內容均視新鮮及季節性食材而定，Le Duet有權更換菜單。</p>
