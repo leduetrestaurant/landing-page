@@ -1,5 +1,5 @@
 <?php 
-$pagetitle = 'Leduet - KITCHEN & BAR';
+$pagetitle = 'Leduet - Modern Kaiseki';
     include '_inc/header.php';
 ?>
     <div class="cover" id="home">
@@ -80,9 +80,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
         <div class="con">
             <h2 class="fade-in-top2">MENU<span>菜單</span></h2>
             <div class="boxo">
-                <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Tasting-Menu.jpeg" target=_blank style="font-family: Verdana,sans-serif;">TASTING MENU<br/>預約制套餐</a>
-                <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Beverages.pdf" target=_blank style="font-family: Verdana,sans-serif;">BEVERAGE <br/>酒單</a>
-                <a class="fade-in-top4" href="https://inline.app/order/-M-jyEOsvgDB0iGW7qDU:inline-live-1/-M-jyESrJa_k1ADTR1g9?language=zh-tw#meal-item-84531" target=_blank style="font-family: Verdana,sans-serif;">DELIVERY SERVICE<br/>外送</a>
+                <a class="fade-in-top4" href="https://leduet-menus.s3.ap-northeast-1.amazonaws.com/menus/Tasting-Menu.pdf" target=_blank style="font-family: Verdana,sans-serif;">Modern Kaiseki<br/>預約制套餐</a>
             </div>
         </div>
         <p class="footer f3">Copyright © Le Duet</p>
@@ -91,24 +89,22 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
         <div class="con">
             <h2 class="fade-in-top2">RESERVATIONS<span>訂位</span></h2>
             <div class="bookbox fade-in-top3">
-                <p class="blue">Le Duet 接受30天內的線上訂位</p>
-                <p class="blue">可透過官網的訂位系統或臉書專頁的藍色按鍵</p>
-                <p class="blue">BOOK NOW 搶先預約</p><br>
-                <p class="blue">當日或隔日預約，請撥打訂位專線<a class="blue" href="tel:+886-2-37621570">02 3762 1570</a></p>
-                <p class="blue">我們將為您確認現場訂位狀況</p>
+            <p class="blue">Le Duet開放30天內的預約，僅接受線上訂位。</p>
+            <p class="blue">訂位時需完成信用卡綁訂程序並收到確認郵件或簡訊，方視為訂位成功。</p>
+            <p class="blue">現場無包廂座位，為全開放式空間。</p>
             </div>
             <div class="fade-in-top4">
-                <div class="bookdetail fir" style="display:none">
-                    <h4>一般訂位<span>General bookings</span></h4>
+                <div class="bookdetail">
+                    <h4>預約制套餐<span>Modern Kaiseki</span></h4>
                     <div class="box">
                         <b>基本消費</b>
-                        <p>每位低消 NT$800</p>
-                        <p>晚間九點過後無低消限制。</p>
+                        <p>「NT$3,480+10%」 (十二道) 之個人式套餐，套餐價格不包含任何酒水及服務費用。</p>
                     </div>
                     <div class="box">
-                        <b>用餐時間</b>
-                        <p>用餐時間以「訂位時間」起始計算150分鐘</p>
-                        <p>如：訂位時間18:00，用餐時間到20:30止。</p>
+                        <b>出餐時間</b>
+                        <p>統一出餐時間為「19:00」</p>
+                        <p>出餐過程約為2.5~3小時，不接受趕時間與急迫出菜之需求。</p>
+                        <p>不克趕上餐點的客人，請配合當時的出菜狀況，主廚會在出餐結束後，補上您錯失的菜餚。</p>
                     </div>
                     <div class="box">
                         <b>訂位保留</b>
@@ -116,84 +112,50 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                         <p>將由現場候位賓客候補座位。</p>
                     </div>
                     <div class="box">
-                        <b>座位安排＆人數變更</b>
-                        <p>座位將依餐廳當日訂位排定，恕無法指定座位，亦不接受現場增加人數，若有任何人數變更，請於用餐前提前與餐廳聯繫。</p>
-                    </div>
-                </div>
-                <div class="bookdetail">
-                    <h4>預約制套餐<span>Tasting Menu</span></h4>
-                    <div class="box">
-                        <b>基本消費</b>
-                        <p>提供NT$1,580 (6道菜)及NT$2,480 (7道菜)兩種套餐選擇，套餐價格不包含任何酒水及服務費用。</p>
-                        <p>如訂位人數臨時減少，則需額外單點酒水補足原先需達之總基本低消。</p>
+                        <b>取消訂位</b>
+                        <p>請於用餐日5天前線上取消訂位。</p>
+                        <p>不接受5天內取消訂位，且訂金恕不退還。</p>
                     </div>
                     <div class="box">
-                        <b>訂位保留</b>
-                        <p>訂位將為保留15分鐘，如逾時將視同取消訂位</p>
-                    </div>
-                    <div class="box" style="display:none">
-                        <b>預付訂金</b>
-                        <p>須於來電日當天23:59前完成預付訂金，如未完成預付訂金，視同取消訂位。</p>
+                        <b>更改訂位＆人數變更</b>
+                        <p>請於用餐日5天前致電，以便協助相關更改流程。</p>
+                        <p>不接受5天內更改訂位＆人數變更，且訂金恕不退還。</p>
                     </div>
                     <div class="box">
-                        <b>改期或取消</b>
-                        <p>如需改期或取消訂位，請於用餐日3天前致電告知，以便協助相關退款動作。</p>
-                        <p>不接受臨時更動及取消訂位，且訂金恕不退還。</p>
-                    </div>
-                    <div class="box">
-                        <b>座位安排＆人數變更</b>
-                        <p>座位將依餐廳當日訂位排定，恕無法指定座位，亦不接受現場增加人數，若有任何人數變更，請於用餐前提前與餐廳聯繫。</p>
+                        <b>座位安排</b>
+                        <p>座位將依餐廳當日訂位排定，恕無法指定座位，亦不接受現場增加人數。</p>
                     </div>
                 </div>
                 <div class="bookdetail">
                     <h4>私人包場＆特別活動<span>Private Events</span></h4>
                     <div class="box">
                         <b>私人包場/ 特別活動時段</b>
-                        <p>晚場 18:00 — 22:00</p>
-                        <p>※最大座位數為16位</p>
-                    </div>
-                    <div class="box">
-                        <b>預付訂金</b>
-                        <p>基本消費為「NT30000+10%服務費」</p>
-                        <p>完成預付訂金前，訂位保留2天，如2天內未完成預付訂金，視同取消訂位。</p>
-                    </div>
-                    <div class="box">
-                        <b>改期或取消</b>
-                        <p>如需改期或取消訂位，請於用餐日兩週前致電告知，以便協助相關退款動作。<br> 不接受臨時更動及取消訂位，且訂金不退還。</p>
-                    </div>
-                    <div class="box">
-                        <b>額外租金</b>
-                        <p>若有超出私人包場或特別活動時間，我們將收取每半小時「NT$5000」的租金，造成不便之處敬請見諒。</p>
-                    </div>
-                </div>
-                <div class="bookdetail">
-                    <h4>慶祝特別節日<span>Celebrations & Festivals</span></h4>
-                    <div class="box">
-                        <p>如有事先告知慶生、紀念日或其它慶祝活動， Le Duet 將招待一份盤飾甜點並上蠟燭及祝賀文字。</p>
-                        <p>若自備「6吋以上蛋糕」請先與餐廳聯絡，以免無冷藏空間提供。需另加收每顆蛋糕NT$200清潔費。</p>
+                        <p>可提供私人包場活動，請致電與我們聯絡。</p>
                     </div>
                 </div>
                 <div class="bookdetail las">
                     <h4>其它或注意事項<span>Other Notices</span></h4>
                     <div class="box">
-                        <p>洗杯費NT$150/杯 (故不另酌收開瓶費) 。</p>
+                        <p>如⾃備酒⽔將酌收開瓶費，葡萄酒為單瓶NT$1,000；烈酒為單瓶NT$1,200。</p>
+                        <p>若自備「6吋以上蛋糕」請先與餐廳聯絡，以免無冷藏空間提供。需另加收每顆蛋糕NT$ 200清潔費。</p>                        
                     </div>
                     <div class="box">
-                        <p>所有價格以新台幣表示，並需加收一成服務費<br>（洗杯費及蛋糕清潔費、租金除外）。</p>
+                        <p>本餐廳採事先預約用餐，所有食材都是根據當天預定人數採購及準備，</p>
+                        <p>為避免造成浪費及提供賓客完美的用餐體驗</p>
+                        <p>請於訂位備註欄中註明是否有任何食物過敏或不能食用及忌口的食材，</p>
+                        <p>當日無法做食材調整。</p>
+                        <p>菜單內容均視新鮮及季節性食材而定，本餐廳有權更換菜單。</p>
                     </div>
                     <div class="box">
-                        <p>為考量與顧客相關之食品安全及呈現餐點最完美的狀態，Le Duet 不提供外帶服務，亦無任何外帶的容器。請勿攜帶外食及飲料，生日蛋糕例外。</p>
+                        <p>無提供有此類需求餐點：</p>
+                        <p>「素食」「無海鮮」「刺身全熟」「外帶」</p>
+                        <p>無提供對此類過敏餐點：</p>
+                        <p>「甲殼類」「麥麩」「奶蛋」</p>
                     </div>
                     <div class="box">
-                        <p>恕不接待8歲以下兒童。</p>
+                        <p>恕不接待12歲以下兒童。</p>
+                        <p>禁用外食/外帶飲料。</p>
                         <p>恕不接待寵物入內。</p>
-                        <p>無提供素食與海鮮套餐。</p>
-                    </div>
-                    <div class="box">
-                        <p>菜單內容均視新鮮及季節性食材而定，Le Duet有權更換菜單。</p>
-                    </div>
-                    <div class="box">
-                        <p>因不可抗拒之因素或意外天災，導致無法履行預約前來用餐，則無息退還所支付訂金。</p>
                     </div>
                 </div> 
                 <div class="bookbox bookbox2">
@@ -214,7 +176,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
         <div class="con">
             <h2 class="fade-in-top2">CONTACT<span>聯絡</span></h2>
             <div class="conbox fade-in-top4">
-                <h4>Kitchen & Bar</h4>
+                <h4>Modern Kaiseki</h4>
                 <div class="title">
                     <h3>Le Duet</h3>
                     <div class="social">
@@ -226,7 +188,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     <div class="vol">
                         <div class="boxx">
                             <b>營業時間</b>
-                            <p>18.00 — 22.00</p>
+                            <p>18.30 — 22.30</p>
                         </div>
                         <div class="boxx">
                             <b>地址</b>
@@ -246,7 +208,7 @@ $pagetitle = 'Leduet - KITCHEN & BAR';
                     <div class="vol">
                         <div class="boxx">
                             <b>Opening Hours</b>
-                            <p>18.00 — 22.00</p>
+                            <p>18.30 — 22.30</p>
                         </div>
                         <div class="boxx">
                             <b>Address</b>
